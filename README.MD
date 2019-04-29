@@ -9,7 +9,7 @@ The features of this App are:
         - Generate new songs and add them to your history
         - Edit song titles
         - Delete songs
-        - Download Music sheet
+        - Download Music sheets
         - Download Songs
         - Play any song from your history
 
